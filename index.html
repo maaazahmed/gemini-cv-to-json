@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF to Text Converter</title>
+
+    <style>
+        .container {
+            width: 400px;
+            margin: auto;
+            margin-top: 150px;
+            text-align: center;
+            text-transform: uppercase;
+            color: rgba(0, 139, 139, 1);
+            text-decoration: underline;
+        }
+
+        form {
+        padding: 20px;
+        }
+
+        input {
+            display: none;
+        }
+
+        label {
+            text-transform: uppercase;
+            text-align: center;
+            background-color: aqua;
+            width: 200px;
+
+        }
+
+
+        .lable-input{
+            background-color: rgba(0, 139, 139, 0.136);
+            /* margin: 0px 20px; */
+            color: rgba(0, 139, 139, 1);
+            font-weight:700;
+            /* padding: 40px 0; */
+            border-radius: 5px;
+            border: dashed 2px rgba(0, 139, 139, 1);
+
+
+            /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    */
+        
+        }
+        .tiel{
+            /* background-color: aqua; */
+            height: 100%;
+            cursor: pointer;
+            height: 100px;
+            display: flex;
+            justify-content: center; 
+            align-items: center;
+        }
+
+        button{
+            background-color: rgba(0, 139, 139, 1);
+            color: white;
+            width: 100%;
+            text-align: center;
+            /* margin: 0px 20px; */
+            padding: 16px 0;
+            color: white;
+            margin-top: 20px;
+            outline: none;
+            border: none;
+            border-radius: 5px;
+            font-weight:700;
+            cursor: pointer;
+
+        }
+       
+    </style>
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Convert PDF to Text</h1>
+
+
+
+        <form action="http://localhost:8000/convert-pdf-to-json" method="post" enctype="multipart/form-data">
+            <div class="lable-input" >
+                <label for="pdfUpload">
+                    <div class="tiel" >
+                        upload CV (.pdf)
+                    </div>
+                    
+                    <input type="file" id="pdfUpload" name="pdf_file" accept=".pdf" required>
+                </label>
+            </div>
+            <button type="submit">Convert</button>
+        </form>
+    </div>
+</body>
+<script>
+
+</script>
+
+</html>

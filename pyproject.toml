@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "hello-world"
+version = "0.1.0"
+description = ""
+authors = ["maaazahmed <maazahmeed2k16@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.110.2"
+uvicorn = {extras = ["standard"], version = "^0.29.0"}
+vertexai = "^1.48.0"
+google-cloud-aiplatform = ">=1.38"
+pypdf2 = "^3.0.1"
+python-multipart = "^0.0.9"
+pdfminer = "^20191125"
+pdfminer-six = "^20231228"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mapapp-218917",
+  "private_key_id": "5417a7ff2da16b547d99e7e846733c483afa74ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVYSilNbW4UkfI\nhWPjUbo85RPTJlbgTJFufzY+SBaVeuMXupGqQnuX5yUZ8qwYTogbcb6m3Qi0aemv\n0PKmmQTWQBfNuOMgBDD3QNPcGamhwkRSaEo/ReMY8vJUPuYfrWnUcxrM+F3vQ8A8\nxhde040vVkwIVKCXj1j3ZRDr+sEH5qtrxSomTaUtHKUd9cOlAKeVy++8GQECEX1v\ndVVEdZ57jrze5xEcPuyXpcjnjBv9+rXSFajFIjb4zVTmXTw7xyHedMysGR5dSYW0\nXV9E0xAT0He+zJnjHlhGOc3JhVzEVR8vfQnfeWf+x/gKDB8rhk/iJW0Zey8X2FUe\nNbFY2+2HAgMBAAECggEAAsbMPD4cUXLDgDewIY7mMSNf9pgPeqBrSy9LAubjqqC1\nhMfiN39zimexFWZs6ragCKGsoaNdq0YuZjQQfECge7M58uzaCpplpQDccyus41R2\nT49Y2bLsm8u3OIePkgaq3Kh967cEgC7AJtgDCWk0mAmYXPg+p5NdKDb2hwy1eZmb\nWn7zTX/i2JuHhbzMIU6YsKU3orA5yshtNviBCaPoQ1BiQV1kYrqrtXLXLFzBY3jI\nAJi6KQc4VphLcamdNfddEC93tlbl4qFSkmUKxhdMcl9LvHC0Cqkx79Z3FMDmjllc\nosW2FRF4fYR8WcB9Z05Ecc3DNBrKY+qveAVSIJkJ7QKBgQD45rUWk+qer8EaxsJg\n16A6UOJWt76yznkpsSsnYGAi3JeI5JPKZkwjYjkG/P9AxSwAr4WvOtg6rK4Ld//v\nsC6Or4TOKo2g6TW6tEUV0aIaaY3dqf97TZOXKCjcjrh6Lye6B2kZCoGGsPR1S3DN\nErrn8odIk6pWEO1RvFpe/NzjXQKBgQDbdxkvgTgZ6xgLNvZxlmqR5+brO9giitew\nnpNAkRjg3pr1cRJRB+1LPfcsjWeZmr94RoRBJS5zZpXD9yYqeILuRvGRmBGxySQX\nw1YC/k8NppBGv/NgxkYREOiXPCKgNUTbitKmTNufesbKyKWQ+/e3bD4kpfsnrflU\nAgIheU0KMwKBgCJaDQIptgbisN8WMXuWJuoFgceAIpShBH3pktAjcAE/urZM/czA\nY5+6ja5WOpBg5hrOHsA5eeBXNsokbLFS+on81XJy0wszRJQZDzPcs+e7S7YdIUKO\nSWFiTIlsNS+/1FbLcQjgt1G0mHibydyzyhH7Ggq9PpQUT/yo5zwW4BGNAoGBAL7h\napVn1Yytbl8qsdR/mDdJNQ46IbWBfzIN6lNJIBNNage6Dc1OkLRVs+sbHhV6g7gv\n1Q34MduLSQ2Fo7tiz7ZBHBCe7BzuribA7clyuP1NdsUiZKMyMHTdeP84/YDMdBRj\nPO4JgSfHmKl9NIvSq1Tsn2wutTCA34+So5nLsBcDAoGALGa6tBccnVargJnVd5O3\ne03KK4FBbxxq5aOfJb1lTuo2d8NB6YLbkbv4z98FdG7mWnq0n/eQBk/jT3/8ofBU\nc6pWpDseQSVYObCmi+oet1QpOxQWw3ifCW2zsr9wJ0APw9/8ozHwBcDQ7sGXM6kf\nP3S1Bx2NwNQX5obJdiGJ24Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf-reader@mapapp-218917.iam.gserviceaccount.com",
+  "client_id": "106193628703220692559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf-reader%40mapapp-218917.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
